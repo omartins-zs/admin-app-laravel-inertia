@@ -3,3 +3,5 @@ composer require inertiajs/inertia-laravel
 php artisan inertia:middleware
 
 npm install @inertiajs/vue3
+
+https://kinsta.com/blog/laravel-inertia/
